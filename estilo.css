@@ -1,0 +1,31 @@
+
+#principal {
+    border: solid 1px red;
+    margin: 0 auto;
+    width: 75%;
+    padding: 7px;
+}
+
+fieldset {
+
+    margin-bottom:10px
+}
+
+legend {
+
+    border: solid 3px #FF3D33
+}
+
+body{
+    background: url(fondo1.jpeg);
+    background-size: 120%;
+    background-attachment: fixed;
+}
+#miFoto{
+   border: solid 4px #cccccc; 
+}
+#a{
+    margin: 0 auto;
+    width: 75%;
+    padding: 7px;
+}
